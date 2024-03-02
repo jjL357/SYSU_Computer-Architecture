@@ -1,4 +1,4 @@
-# SYSU-Computer-Architecture
+# SYSU_Computer-Architecture
 SYSU计算机体系结构课程作业,包括期中论文综述、期末论文代码复现改进报告以及改进后的代码，供助教和沈老师评测
 ## 1. 期中论文综述
 计算机体系结构期中论文综述.pdf
